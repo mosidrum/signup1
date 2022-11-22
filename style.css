@@ -29,3 +29,7 @@ button:hover{
     background: dodgerblue;
     color: #fff;
 }
+table, tr, td{
+    border: 1px solid #eee;
+    padding: 10px;
+}
